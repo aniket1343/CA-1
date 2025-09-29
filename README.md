@@ -1,6 +1,9 @@
 # Gadget Launch Page - HTML Assignment  
 
-**Name:** Aniket Rajput  
+**Name:** Aniket Rajput 
+**ROLL NO:** 202501100300037
+**SECTION:** A
+**BRANCH:** CSE(AI)
 
 ## Description  
 A simple HTML page (**gadget_launch.html**) showcasing the **SmartX Watch Pro** gadget.  
